@@ -13,7 +13,17 @@ This project demonstrates automation of AWS S3 operations using **Bash scripting
 
 ## 🔄 Workflow
 
-Local Machine → AWS CLI → S3 Bucket → Output → Cleanup
+1. User executes Bash script  
+
+2. AWS CLI authenticates using configured credentials  
+
+3. S3 bucket is created with a unique name  
+
+4. File is uploaded to the bucket  
+
+5. Bucket contents are verified  
+
+6. Resources are cleaned up (object + bucket deletion)
 
 ---
 
