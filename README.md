@@ -1,3 +1,7 @@
+![AWS](https://img.shields.io/badge/AWS-S3-orange)
+![Bash](https://img.shields.io/badge/Scripting-Bash-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # 🚀 AWS S3 Automation using Bash & AWS CLI
 
 ## 📌 Overview
