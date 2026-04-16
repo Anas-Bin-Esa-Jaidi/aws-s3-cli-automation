@@ -1,7 +1,6 @@
 ![AWS](https://img.shields.io/badge/AWS-S3-orange)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![AWS](https://img.shields.io/badge/AWS-S3-orange)
 ![CLI](https://img.shields.io/badge/Tool-AWS%20CLI-blue)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
