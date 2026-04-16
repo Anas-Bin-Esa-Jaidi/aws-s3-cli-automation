@@ -1,12 +1,22 @@
 ![AWS](https://img.shields.io/badge/AWS-S3-orange)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![AWS](https://img.shields.io/badge/AWS-S3-orange)
+![CLI](https://img.shields.io/badge/Tool-AWS%20CLI-blue)
+![Bash](https://img.shields.io/badge/Scripting-Bash-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 # 🚀 AWS S3 Automation using Bash & AWS CLI
+
+Automating AWS S3 bucket lifecycle operations using Bash scripting and AWS CLI for repeatable and efficient cloud management.
 
 ## 📌 Overview
 
 This project demonstrates automation of AWS S3 operations using **Bash scripting** and **AWS CLI**. It performs the complete lifecycle of an S3 bucket including creation, file upload, verification, and cleanup.
+
+## 🔄 Workflow
+
+Local Machine → AWS CLI → S3 Bucket → Output → Cleanup
 
 ---
 
